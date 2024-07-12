@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Rodrigo Cavalcanti da Silva",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
 }
