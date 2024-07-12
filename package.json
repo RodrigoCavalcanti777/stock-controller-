@@ -1,0 +1,12 @@
+{
+  "name": "stock-controller-",
+  "version": "1.0.0",
+  "description": "API de controle de estoque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Cavalcanti da Silva",
+  "license": "ISC"
+}
