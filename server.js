@@ -9,9 +9,9 @@ app.get('/', (req, res) => {
   });
 
 
-app.listen(port, (erro) => {
-    if(erro) {
-        console.log('erro');
+app.listen(port, (err) => {
+    if(err) {
+        console.log('Ocorreu um erro', err);
     }else{
         console.log('Server is running in port ' + port);    
     }
