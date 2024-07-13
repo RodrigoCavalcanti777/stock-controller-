@@ -13,7 +13,7 @@ Neste projeto estará em pauta a criação de uma API de um controlador de estoq
 -GET
 -POST
 -PUT
--DElETE
+-DELETE
 
 Este projeto é desenvolvido com o intuito de ser uma API pública para conceitos de teste de software e para trabalhar o conceito da automação de testes.
 O stock-controller será um controlador de estoque onde no mesmo será feito adição de produtos, alteração, exclusão e a listagem de todos os produtos cadastrados no mesmo.
